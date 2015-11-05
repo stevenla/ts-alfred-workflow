@@ -23,7 +23,7 @@ $formats = [
 ];
 
 ?>
-<?xml version="1.0"?>
+<xml version="1.0">
 <items>
 <item uid="0" arg="<?= $time ?>" valid="yes">
     <title><?= $time ?></title>
